@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zaki
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zakiye
 ============================================================================================================================
 
 Mobile App Developer and Machine-Learning Engineer
@@ -9,4 +9,4 @@ The first time I coded was when I entered 7th grade of junior high school, the f
 *   🌍  I'm based in Yogyakarta
 *   🧠  I'm learning Dart, Python, C++, JavaScript, Mojo
 *   🤝  I'm open to collaborating on Custom ROMs
-*   ⚡  I'm just a Kid
+*   ⚡  I'm just a 18yo Kid
