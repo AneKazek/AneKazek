@@ -8,5 +8,5 @@ The first time I coded was when I entered 7th grade of junior high school, the f
 
 *   🌍  I'm based in Yogyakarta
 *   🧠  I'm learning Dart, Python, C++, JavaScript, Mojo
-*   🤝  I'm open to collaborating on Custom ROMs
+*   🤝  I'm open to collaborating on Flutter App / Machine Learning
 *   ⚡  I'm just a 18yo Kid
