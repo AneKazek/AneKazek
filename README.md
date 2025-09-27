@@ -1,8 +1,7 @@
 # 💫About Me :
-🌍  I'm based in Yogyakarta
-🧠  I'm learning Dart, Python, C++, JavaScript, Mojo
-🤝  I'm open to collaborating on Flutter App / Machine Learning
-⚡  I'm just a 18yo Kid
+An Artificial Intelligence Engineering student at Institut Teknologi Sepuluh Nopember (ITS) with a deep passion for creating impactful technological solutions. My journey into programming began in junior high school, where I built a strong foundation in C++ and hardware development using Arduino. This dedication has led me to develop numerous innovative projects, several of which have earned awards at both the National and International levels. This experience has honed my skills in problem-solving, creativity, and end-to-end project management, from ideation to execution.
+
+Currently, I am strategically expanding my expertise into Python for Artificial Intelligence applications and Dart for mobile development with Flutter. I am always enthusiastic about learning and applying new technologies to overcome complex challenges. I am highly open to collaborating on innovative projects, especially in the fields of Artificial Intelligence or Flutter app development. Let's connect and build something remarkable together!
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/kazekiye) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zakiyhdr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zakiyhdr) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haidarmuhammaddzaky) 
